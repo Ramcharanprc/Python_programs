@@ -1,0 +1,36 @@
+<configurations>
+	<!--Contains Menu configurations.-->
+	<menuConfiguartions>
+		<line>Welcome to Employee portal.</line>
+		<line>1) Create Employee details.</line>
+		<line>2) View Employee details.</line>
+		<line>3) Update Employee details.</line>
+		<line>4) Delete Employee details.</line>
+		<line>5) Search Employee details.</line>
+		<line>6) Exit from the portal.</line>
+		<line>---------------------------</line>
+	</menuConfiguartions>
+	<!--Contains field configurations.-->
+	<fieldConfigurations>
+		<id>Employee ID</id>
+		<name>Employee name</name>
+		<contactNumber>Contact number</contactNumber>
+	</fieldConfigurations>
+	<!--Contains general configurations.-->
+	<generalConfigurations>
+		<Create>Create Employee details.</Create>
+		<View>View Employee details.</View>
+		<Update>Update Employee details.</Update>
+		<Search>Search Employee details.</Search>
+		<Details>Details created successfully.</Details>
+		<Choice>Enter your choice</Choice>
+		<Updated>Details updated successfully.</Updated>
+		<notCreated>No Employee Details are created yet.</notCreated>
+		<Confirmation>Do you want to delete this Employee Details (y or n)</Confirmation>
+		<Deleted>Employee details deleted successfully.</Deleted>
+		<IdNotFound>Details not found. Check the Id you entered.</IdNotFound>
+		<Invalid>Invalid choice!</Invalid>
+		<enterValid>Enter a valid number.</enterValid>
+		<ThankYou>Thank You!</ThankYou>
+	</generalConfigurations>
+</configurations>
